@@ -69,7 +69,6 @@ I'm passionate about combining **AI, encryption, and space** to create secure, i
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-degendt/) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
-✉️ **Email:** adrian@example.com  
 🌐 **Portfolio:** *Coming soon!*
 
 ---
