@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm an ambitious Mechatronics student, explorer of space systems, and cybersecurity enthusiast. Currently building **SecureCore** — a platform for satellite and IoT cybersecurity — and working on **SpaceWatch**, an app for real-time space tracking and education.
+I'm an ambitious Mechatronics student, explorer of space systems, and cybersecurity enthusiast. Currently building **SecureCore**, a platform for satellite and IoT cybersecurity and working on **SpaceWatch**, an app for real-time space tracking and education.
 
 I'm passionate about combining **AI, encryption, and space** to create secure, innovative technologies that can change the world.
 
